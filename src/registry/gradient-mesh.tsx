@@ -37,7 +37,7 @@ export function GradientMesh({
   const containerRef = useRef<HTMLDivElement>(null);
   const blobsRef = useRef<MeshBlob[]>([]);
   const blobElementsRef = useRef<(HTMLDivElement | null)[]>([]);
-  const animationRef = useRef<number>();
+  const animationRef = useRef<number | undefined>(undefined);
 
   // Initialize blobs once
   const initialBlobs = useMemo(() => {
