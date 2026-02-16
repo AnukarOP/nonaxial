@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<div align="center">
+
+<img src="public/favicon.svg" alt="nonaxial" width="80" height="80" />
+
+>>>>>>> 777d8edeafefc0ede3b54b277765aabd001f72a7
 # nonaxial.com
 
 **Static components feel dead. Make them alive.**
