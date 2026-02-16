@@ -149,7 +149,7 @@ export default function ComponentsPage() {
           <div className="flex items-center gap-2 mt-3 text-sm text-zinc-600">
             <span>Made with ❤️ by</span>
             <motion.a 
-              href="https://github.com/AnukarOP"
+              href="https://anukar.tech/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-3 py-1 rounded-full bg-fuchsia-500/10 text-fuchsia-400 font-medium text-xs flex items-center gap-1.5 cursor-pointer"
