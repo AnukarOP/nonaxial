@@ -3,7 +3,7 @@
 **Static components feel dead. Make them alive.**
 
 <a href="https://nonaxial.com">
-  <img src="public/screenshots/light mode hero.png" alt="nonaxial preview" width="100%" style="border-radius: 12px;" />
+  <img src="https://www.nonaxial.com/screenshots/light mode hero.png" alt="nonaxial preview" width="100%" style="border-radius: 12px;" />
 </a>
 
 <br />
