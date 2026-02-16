@@ -269,7 +269,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
           >
-            <span className="block text-zinc-500 text-3xl sm:text-4xl md:text-5xl mb-2 font-medium">static components feel dead</span>
+            <span className="block text-black dark:text-white text-3xl sm:text-4xl md:text-5xl mb-2 font-medium">static components feel dead</span>
             <span className="block bg-gradient-to-r from-violet-400 via-fuchsia-400 to-violet-400 bg-clip-text text-transparent">
               make them alive
             </span>

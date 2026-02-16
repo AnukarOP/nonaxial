@@ -134,7 +134,7 @@ export default function ComponentsPage() {
           className="lg:flex-1"
         >
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-4">
-            <span className="text-zinc-500">static components </span>
+            <span className="text-black dark:text-white">static components </span>
             <span className="bg-gradient-to-r from-violet-400 to-fuchsia-400 bg-clip-text text-transparent">feel dead</span>
           </h1>
           <p className="text-zinc-500 text-lg mb-4 max-w-lg">
