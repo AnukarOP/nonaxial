@@ -1,0 +1,13 @@
+<svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="32" height="32" rx="8" fill="#09090B"/>
+  <circle cx="16" cy="16" r="12" stroke="url(#grad)" stroke-width="1.5" stroke-dasharray="3 3" fill="none"/>
+  <ellipse cx="16" cy="16" rx="8" ry="4" stroke="#71717A" stroke-width="0.75" fill="none"/>
+  <circle cx="24" cy="16" r="2" fill="url(#grad)"/>
+  <text x="16" y="20" text-anchor="middle" fill="white" font-family="system-ui, sans-serif" font-weight="bold" font-size="10">n</text>
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#D946EF"/>
+    </linearGradient>
+  </defs>
+</svg>
