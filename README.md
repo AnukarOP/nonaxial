@@ -12,7 +12,7 @@
 [![Components](https://img.shields.io/badge/Components-200%2B-fuchsia.svg)](#components)
 [![Made with](https://img.shields.io/badge/Made%20with-Motion-8B5CF6.svg)](https://motion.dev)
 
-[Demo](https://nonaxial.com) · [Components](https://nonaxial.com/components) · [Report Bug](https://github.com/AnukarOP/nonaxial/issues)
+[Demo](https://nonaxial.com) · [Components](https://nonaxial.com/components) · [Report Bug](https://github.com/nonaxial/nonaxial/issues)
 
 ---
 
@@ -97,7 +97,7 @@ npm install framer-motion
 ## Local Development
 
 ```bash
-git clone https://github.com/AnukarOP/nonaxial.git
+git clone https://github.com/nonaxial/nonaxial.git
 cd nonaxial
 npm install
 npm run dev
@@ -131,6 +131,6 @@ MIT © [Anukar](https://github.com/AnukarOP)
 
 Made with ❤️ by [Anukar](https://twitter.com/anukarop)
 
-*yes, it's free. no cap 🧢*
+*yes, it's free. haha!*
 
 </div>
