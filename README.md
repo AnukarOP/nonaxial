@@ -2,7 +2,7 @@
 
 <img src="public/favicon.svg" alt="nonaxial" width="80" height="80" />
 
-# nonaxial
+# nonaxial.com
 
 **Static components feel dead. Make them alive.**
 
