@@ -1,21 +1,18 @@
-<div align="center">
-
-<img src="public/favicon.svg" alt="nonaxial" width="80" height="80" />
-
-# nonaxial
+# nonaxial.com
 
 **Static components feel dead. Make them alive.**
 
-A collection of smooth, high-quality animated React components.  
-Copy. Paste. Ship.
+<a href="https://nonaxial.com">
+  <img src="public/screenshots/hero.png" alt="nonaxial preview" width="100%" style="border-radius: 12px;" />
+</a>
+
+<br />
 
 [![MIT License](https://img.shields.io/badge/License-MIT-violet.svg)](LICENSE)
 [![Components](https://img.shields.io/badge/Components-200%2B-fuchsia.svg)](#components)
 [![Made with](https://img.shields.io/badge/Made%20with-Motion-8B5CF6.svg)](https://motion.dev)
 
 [Demo](https://nonaxial.com) · [Components](https://nonaxial.com/components) · [Report Bug](https://github.com/AnukarOP/nonaxial/issues)
-
-</div>
 
 ---
 
