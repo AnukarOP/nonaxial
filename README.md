@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-=======
-<div align="center">
-
-<img src="public/favicon.svg" alt="nonaxial" width="80" height="80" />
-
->>>>>>> 777d8edeafefc0ede3b54b277765aabd001f72a7
 # nonaxial.com
 
 **Static components feel dead. Make them alive.**
 
 <a href="https://nonaxial.com">
-  <img src="public/screenshots/hero.png" alt="nonaxial preview" width="100%" style="border-radius: 12px;" />
+  <img src="public/screenshots/light mode hero.png" alt="nonaxial preview" width="100%" style="border-radius: 12px;" />
 </a>
 
 <br />
