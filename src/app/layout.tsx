@@ -4,6 +4,7 @@ import "./globals.css";
 import { ThemeProvider } from "@/lib/theme-provider";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { Analytics } from "@vercel/analytics/react";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -162,7 +163,7 @@ export default function RootLayout({
               name: "nonaxial",
               description:
                 "Open-source React component library with animated UI components",
-              codeRepository: "https://github.com/AnukarOP/nonaxial",
+              codeRepository: "https://github.com/nonaxial/nonaxial",
               programmingLanguage: ["TypeScript", "React", "JavaScript"],
               runtimePlatform: "Node.js",
               targetProduct: {
@@ -183,6 +184,7 @@ export default function RootLayout({
           <main className="flex-1 pt-14">{children}</main>
           <Footer />
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
