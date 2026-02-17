@@ -10,7 +10,7 @@ import { components as allComponents } from "@/lib/components-data";
 
 // Quick links for the command palette
 const quickLinks = [
-  { name: "GitHub", url: "https://github.com/nonaxial/nonaxial", external: true, group: "Links" },
+  { name: "GitHub", url: "https://github.com/AnukarOP/nonaxial", external: true, group: "Links" },
   { name: "X (Twitter)", url: "https://x.com/AnukarOP", external: true, group: "Links" },
 ];
 
