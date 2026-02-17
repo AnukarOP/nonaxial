@@ -5,9 +5,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "npx tsx scripts/generate-registry.ts",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-registry": "npx tsx scripts/generate-registry.ts"
   },
   "dependencies": {
     "clsx": "^2.1.1",
