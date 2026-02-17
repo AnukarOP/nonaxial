@@ -9,7 +9,7 @@ function OpenSourceBadge() {
   const [starCount, setStarCount] = useState<number | null>(null);
   
   useEffect(() => {
-    fetch("https://api.github.com/repos/nonaxial/nonaxial")
+    fetch("https://api.github.com/repos/Anukarop/nonaxial")
       .then((res) => res.json())
       .then((data) => {
         if (data.stargazers_count !== undefined) {
@@ -28,7 +28,7 @@ function OpenSourceBadge() {
   
   return (
     <a
-      href="https://github.com/nonaxial/nonaxial"
+      href="https://github.com/Anukarop/nonaxial"
       target="_blank"
       rel="noopener noreferrer"
     >
@@ -315,7 +315,7 @@ export default function Home() {
       <footer className="relative z-10 py-8 px-6">
         <div className="max-w-4xl mx-auto flex items-center justify-center gap-8">
           <motion.a
-            href="https://github.com/nonaxial/nonaxial"
+            href="https://github.com/Anukarop/nonaxial"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex items-center gap-2 text-sm text-muted hover:text-foreground transition-colors"
