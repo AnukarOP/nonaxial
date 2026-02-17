@@ -162,7 +162,7 @@ export default function RootLayout({
               name: "nonaxial",
               description:
                 "Open-source React component library with animated UI components",
-              codeRepository: "https://github.com/nonaxial/nonaxial",
+              codeRepository: "https://github.com/AnukarOP/nonaxial",
               programmingLanguage: ["TypeScript", "React", "JavaScript"],
               runtimePlatform: "Node.js",
               targetProduct: {
